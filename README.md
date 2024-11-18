@@ -34,14 +34,6 @@ From desktop to mobile, the application maintains its functionality and aestheti
 - **Priority Badges**: Quickly identify task importance with distinct labels.
 - **User Availability Indicators**: Green dots signify available users, while red dots indicate unavailability.
 
----
-
-## **🚀 Live Demo**
-
-Explore the hosted Kanban board here: [Live Demo Link](https://quiksell-eight.vercel.app/)
-
----
-
 ## **🔍 How to Use**
 
 1. **Access the Display Options:**
