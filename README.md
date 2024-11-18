@@ -115,8 +115,11 @@ The application fetches data from the [QuickSell API](https://api.quicksell.co/v
 
 **Raghav Agiwal**
 
+## Contact
+
 - 📞 Phone: +91 9529597215
 - 📧 Email: [raghavagiwal20@gmail.com](mailto:raghavagiwal20@gmail.com)
+- 🐙 GitHub: [raghav0807](https://github.com/raghav0807)
 
 ---
 
