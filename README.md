@@ -40,7 +40,7 @@ From desktop to mobile, the application maintains its functionality and aestheti
 
 This screenshot shows the default state of the Kanban board when the page is loaded or reloaded. By default, the tickets are grouped by **Status**, and they are sorted by **Priority** in descending order. The status groups include options like **Backlog**, **ToDo**, **In Progress**, **Done**, and **Canceled**.
 
-![By default or when User reload, Grouping by Status and Sorting by Priority](./public/Screenshots/Screenshot1.tif)
+![Grouping by Status and Sorting by Priority](./src/assets/Screenshot1.tif)
 
 ### 2. Grouping by User and Sorting by Priority
 
