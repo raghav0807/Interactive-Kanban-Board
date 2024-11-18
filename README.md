@@ -111,7 +111,7 @@ The application fetches data from the [QuickSell API](https://api.quicksell.co/v
 
 ---
 
-## **👤 About the Developer**
+## **👤 About Me**
 
 **Raghav Agiwal**
 
