@@ -38,7 +38,7 @@ From desktop to mobile, the application maintains its functionality and aestheti
 
 ## **🚀 Live Demo**
 
-Explore the hosted Kanban board here: [Live Demo Link](#)
+Explore the hosted Kanban board here: [Live Demo Link](https://quiksell-eight.vercel.app/)
 
 ---
 
