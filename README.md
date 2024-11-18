@@ -34,6 +34,26 @@ From desktop to mobile, the application maintains its functionality and aestheti
 - **Priority Badges**: Quickly identify task importance with distinct labels.
 - **User Availability Indicators**: Green dots signify available users, while red dots indicate unavailability.
 
+## Screenshots
+
+### 1. Grouping by Status and Sorting by Priority (Default View)
+
+This screenshot shows the default state of the Kanban board when the page is loaded or reloaded. By default, the tickets are grouped by **Status**, and they are sorted by **Priority** in descending order. The status groups include options like **Backlog**, **ToDo**, **In Progress**, **Done**, and **Canceled**.
+
+![By default or when User reload, Grouping by Status and Sorting by Priority](./public/Screenshots/Screenshot1.tif)
+
+### 2. Grouping by User and Sorting by Priority
+
+In this view, the tickets are grouped by the **Assigned User**, which means each user will have their own column displaying the tasks assigned to them. The tickets within each user column are then sorted by **Priority** in descending order.
+
+![When user select Grouping by User and Sorting by Priority](./public/Screenshots/Screenshot2.tif)
+
+### 3. Grouping by Priority and Sorting by Priority
+
+This screenshot shows the Kanban board when the grouping option is set to **Priority**. The tickets are grouped based on their priority levels (Urgent, High, Medium, Low, No Priority). Within each group, the tickets are also sorted by **Priority**, so the highest priority tasks (Urgent) will appear first.
+
+![Grouping by Priority and Sorting by Priority](./public/Screenshots/Screenshot3.tif)
+
 ## **🔍 How to Use**
 
 1. **Access the Display Options:**
