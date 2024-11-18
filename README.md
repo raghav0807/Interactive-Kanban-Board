@@ -42,31 +42,6 @@ Explore the hosted Kanban board here: [Live Demo Link](#)
 
 ---
 
-## **📦 Installation Guide**
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/your-username/kanban-board.git
-   cd kanban-board
-   ```
-
-2. **Install Required Dependencies:**
-
-   ```bash
-   npm install
-   ```
-
-3. **Start the Development Server:**
-
-   ```bash
-   npm start
-   ```
-
-4. Open your browser and go to `http://localhost:3000` to explore the application.
-
----
-
 ## **🔍 How to Use**
 
 1. **Access the Display Options:**
@@ -86,25 +61,6 @@ Explore the hosted Kanban board here: [Live Demo Link](#)
 4. **Track User Availability:**
    - Green indicators: User is active.
    - Red indicators: User is unavailable.
-
----
-
-## **🛠️ Project Architecture**
-
-Here's a snapshot of the organized project structure:
-
-```plaintext
-src/
-├── assets/               # Icons and images
-├── components/           # Reusable UI components
-│   ├── Board.js          # Main Kanban board logic
-│   ├── Card.js           # Individual task cards
-│   ├── Dropdown.js       # Dropdown for sorting/grouping
-│   └── Navbar.js         # Navigation bar
-├── App.js                # Root component
-├── index.js              # Application entry point
-└── Status.css            # Custom CSS styles
-```
 
 ---
 
